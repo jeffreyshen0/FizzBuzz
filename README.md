@@ -1,6 +1,6 @@
 # CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
-ごめなさい。
+
 But first, let's get you your own copy of this codebase to work with.
 
 ## Task 0 Forking a public repository on GitHub
@@ -418,3 +418,5 @@ the other one of you will need to do a `git pull` to get the changes. Of course,
 and try to push, there may be conflicting changes which need to be resolved. As mentioned earlier,
 git does a pretty good job telling you what is wrong and can help you resolve any conflicts. We'll talk more about
 this later, as well as other features of git which can help you avoid conflicts.
+
+主神話大阪です。
